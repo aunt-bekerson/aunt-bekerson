@@ -1,0 +1,7 @@
+p {
+  display: inline-block;
+}
+
+p.y1, p.t1, p.n1, p.q3, p.f2, p.j1, p.f1, p.t4, p.a4, p.u3, p.b2, p.o1, p.k2, p.a3, p.p3, p.v3, p.c2, p.q2, p.w4, p.r1, p.q1, p.n4 {
+  color: red;
+}
